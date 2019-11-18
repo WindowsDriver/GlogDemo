@@ -1,0 +1,5 @@
+Log file created at: 2019/11/15 13:15:00
+Running on machine: ESYP-10160097
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1115 13:15:00.792454 21536 testglogdemo.cpp:8] This is a <Warn> log message...
+F1115 13:15:00.793480 21536 utilities.cc:337] Check failed: !IsGoogleLoggingInitialized() You called InitGoogleLogging() twice!
